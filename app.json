@@ -1,0 +1,6 @@
+{
+  "name": "GMap Forces",
+  "description": "GMap Forces",
+  "image": "heroku/java",
+  "addons": []
+}
